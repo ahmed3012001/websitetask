@@ -1,0 +1,141 @@
+.sec3{
+    background-color: rgb(208, 190, 255);
+    height: 1200px;
+}
+.ccc{
+    height: 20px;
+}
+.title111{
+    text-align: center;
+    font-size: 55px;
+    color: rgb(197, 33, 33);
+    text-shadow: 3px 3px 3px white;
+    margin-top: 50px; 
+}
+.div111{
+    width: 330px;
+    height: 4px ;
+    background-color: black;
+    margin: auto;
+    margin-top: -20px ;
+}
+.parent222{
+    margin-top: 50px;   
+}
+.div222{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    float: left;
+    margin-left: 150px;
+}
+.title222{
+    font-size: 50px;
+    color: rgb(197, 33, 33);
+    margin-top: 1px;
+    text-shadow: 2px 2px 2px white;
+}
+.title222:hover{
+    color: rgb(72, 91, 141);
+}
+.div555{
+    margin-top: 10px;
+    margin-left: -100px;
+    background-color: white;
+    width: 600px;
+}
+.t111{
+    font-size: 40px;
+    color: black;
+    text-shadow: 2px 2px 2px white;
+    text-decoration: none;
+}
+.t111:hover{
+    color: rgb(49, 67, 112);
+}
+.div333{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    float: left;
+    margin-left: 30px ;
+}
+.title333{
+    font-size:50px;
+    color: rgb(197, 33, 33);
+    margin-top: 1px;
+    text-shadow: 2px 2px 2px white;
+}
+.title333:hover{
+    color: rgb(72, 91, 141);
+}
+.div666{
+    margin-left: -160px;
+    margin-top: 500px;
+    background-color: white;
+    width: 670px;
+}
+.t222{
+    font-size: 40px;
+    color: black;
+    text-shadow: 2px 2px 2px white;
+    text-decoration: none;
+}
+.t222:hover{
+    color: rgb(49, 67, 112);
+}
+.div444{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    float: left;
+    margin-left: 10px ;
+}
+.title444{
+    font-size:50px;
+    color: rgb(197, 33, 33);
+    margin-top: 1px;
+    text-shadow: 2px 2px 2px white;
+}
+.title444:hover{
+    color: rgb(72, 91, 141);
+}
+.div777{
+    margin-top: 10px;
+    margin-left: -110px;
+    background-color: white;
+    width: 600px;
+}
+.t333{
+    font-size: 40px;
+    color: black;
+    text-shadow: 2px 2px 2px white;
+    text-decoration: none;
+}
+.t333:hover{
+    color: rgb(49, 67, 112);
+}
+.l111{
+    height: 550px;
+}
+.div555:hover .title222{
+    color: rgb(72, 91, 141);
+}
+.div666:hover .title333{
+    color: rgb(72, 91, 141);
+}
+.div777:hover .title444{
+    color: rgb(72, 91, 141);
+}
+.div555:hover .t111{
+    color: rgb(197, 33, 33);
+    text-shadow: 2px 2px 2px white;
+}
+.div666:hover .t222{
+    color: rgb(197, 33, 33);
+    text-shadow: 2px 2px 2px white;
+}
+.div777:hover .t333{
+    color: rgb(197, 33, 33);
+    text-shadow: 2px 2px 2px white;
+}
